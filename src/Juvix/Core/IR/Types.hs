@@ -1,3 +1,5 @@
+-- |
+-- - This defines the terms in intermediate form and their associate instances and functions.
 module Juvix.Core.IR.Types where
 
 import Juvix.Core.Usage

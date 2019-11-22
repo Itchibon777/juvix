@@ -1,6 +1,5 @@
--- | 
--- - This defines the human readable terms.
-
+-- |
+-- - This defines the terms in human readable form.
 module Juvix.Core.HR.Types where
 
 import Juvix.Core.Usage

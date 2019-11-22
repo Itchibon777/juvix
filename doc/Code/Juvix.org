@@ -195,6 +195,7 @@ Provides a mechanism for defining Sum types
   + [[Usage]]
   + [[Library]]
 **** Types <<HR/Types>>
+- This defines the terms in human readable form.
 - _Relies on_
   + [[Usage]]
   + [[Library]]
@@ -203,12 +204,14 @@ Provides a mechanism for defining Sum types
   + [[Typechecker]]
   + [[IR/Types]]
 **** Typechecker
+- This is the core typechecker.
 - _Relies on_
   + [[IR/Types]]
   + [[Core/Types]]
   + [[Usage]]
   + [[Library]]
 **** Types <<IR/Types>>
+- This defines the terms in intermediate form and their associate instances and functions.
 - _Relies on_
   + [[Usage]]
   + [[Library]]
