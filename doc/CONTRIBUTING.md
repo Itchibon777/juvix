@@ -11,7 +11,7 @@ Contributions are welcome! Please consider the following guidelines.
 
 Add a brief description of any module you create before the module definition.
 This can be placed before or after (more idiomatically) after file specific pragmas.
-Much like haddock, the comments must begin with `--|` as the first comment and `--` for the consecutive lines.
+Much like haddock, the comments must begin with `-- |` as the first comment and `--` for the consecutive lines.
 
 The comment formatting follows [org formatting](http://ergoemacs.org/emacs/emacs_org_markup.html), Just note that
 one should avoid adding headlines (* at the start of the line) as to avoid conflicts in generation.

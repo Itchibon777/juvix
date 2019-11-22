@@ -1,3 +1,6 @@
+-- |
+-- - This is the core typechecker.
+
 module Juvix.Core.IR.Typechecker where
 
 import Control.Lens ((^?), ix)
