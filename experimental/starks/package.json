@@ -15,7 +15,7 @@
     "@guildofweavers/genstark": "^0.5.7",
     "@types/follow-redirects": "^1.8.0",
     "@types/mz": "0.0.32",
-    "@types/node": "^12.7.5",
+    "@types/node": "^12.12.17",
     "arweave": "^1.4.1",
     "mz": "^2.7.0"
   }
