@@ -16,7 +16,7 @@
     "@types/follow-redirects": "^1.8.0",
     "@types/mz": "0.0.32",
     "@types/node": "^12.7.5",
-    "arweave": "^1.4.1",
+    "arweave": "^1.6.0",
     "mz": "^2.7.0"
   }
 }
