@@ -13,7 +13,7 @@
   "license": "GPL-3.0",
   "dependencies": {
     "@guildofweavers/genstark": "^0.5.7",
-    "@types/follow-redirects": "^1.8.0",
+    "@types/follow-redirects": "^1.13.0",
     "@types/mz": "0.0.32",
     "@types/node": "^12.7.5",
     "arweave": "^1.4.1",
